@@ -13,9 +13,9 @@ Convert Any Shortner Link To Your With Post
 
 ## Credits 
 
-* [![DK](https://img.shields.io/static/v1?label=DKBOTZ&message=Telegram&color=critical)](https://t.me/DKBOTZ)
+* [![DK](https://img.shields.io/static/v1?label=DKBOTZ&message=Telegram&color=critical)](https://t.me/Tamilan_Bots_Official)
 * [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/Cynitesupport)
 
 ## Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyniteofficial/Shortner-Converter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sebastinselva123/Shortner-Converter-Bot-V2)
